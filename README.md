@@ -2,9 +2,9 @@
 
 >Каждый ***котэ*** считает, что *рыба* гораздо вкуснее **НА КОВРЕ** в коридоре, чем в миске на кухне.
 
-+Unordered list
-+Unordered list
-+Unordered list
+*Unordered list
+*Unordered list
+*Unordered list
 
 * * * * *
 
