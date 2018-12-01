@@ -12,7 +12,7 @@
 2. Ordered list
 3. Ordered list
 
-### link to [Google](httt://google.com)
+### link to [Google] (httt://google.com)
 
 ![My awesome pic](http://lorempixel.com/400/200/)
 
