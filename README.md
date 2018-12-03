@@ -20,7 +20,7 @@
 
 * * * * *
 
-![My awesome pic](http://lorempixel.com/400/200/)
+![My awesome pic](http://lorempixel.com/400/300/)
 
 - - - - -
 
